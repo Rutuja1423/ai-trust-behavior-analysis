@@ -37,7 +37,7 @@ This repository follows a professional, modular Python package layout:
 ```text
 ei_ai_trust_project/
 ├── data/
-    ├── synthetic_ei_ai_trust_data.csv
+    ├── ei_ai_trust_data.csv
 ├── notebook/
     ├── ei_ai_trust_analysis.ipynb
 ├── README.md
