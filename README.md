@@ -5,7 +5,7 @@
 | --- | --- |
 | **Author** | Rutuja Shinde |
 | **Project** | Emotional Intelligence vs AI Trust Analysis |
-| **Role** | Behavioral Data Analyst |
+| **Role** |  Data Analyst |
 | **Date** | May 2026 |
 
 Analyzed how emotional intelligence (EI) drives user trust in Agentic AI using statistical modeling on simulated behavioral survey data (n=500). Achieved strong predictive signals (R-squared = 21.2% for the baseline model, rising to 31.0% when accounting for perceived empathy) and segmented users into distinct trust profiles to guide emotionally intelligent AI design.
